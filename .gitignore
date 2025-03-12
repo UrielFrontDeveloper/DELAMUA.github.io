@@ -399,4 +399,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-appsettinsg.json
+#elimina este archivo de configuracion
+appsettings.json
